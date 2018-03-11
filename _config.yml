@@ -6,3 +6,16 @@ description: Description
 
 twitter:
   username               : juancamiload
+
+
+# Site Author
+author:
+  name             : "..."
+  avatar           : 
+  bio              : 
+  location         : "UK"
+  email            : "enrico.glerean@utu.fi"
+  github           : "eglerean"
+  linkedin         : "http://fi.linkedin.com/in/enricoglerean"
+  twitter          : "eglerean"
+
